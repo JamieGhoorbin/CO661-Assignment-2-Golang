@@ -1,7 +1,6 @@
-# CO661-Assignment 2
-# Concurrent programming in Go
+# CO661-Assignment 2 - Concurrent programming in Go
 
-## Solving three problems using synchronous and asynchronous message passing in Go.
+### Solving three problems using synchronous and asynchronous message passing in Go.
 
 ## Final grade: 95%
 
